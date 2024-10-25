@@ -1,4 +1,4 @@
-package com.example.a1mobileapp4c.ui;
+package com.example.a1mobileapp4c.ui.zadanie2;
 
 import androidx.lifecycle.ViewModelProvider;
 

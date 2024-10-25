@@ -25,91 +25,91 @@
 
     <fragment
         android:id="@+id/zadanie1"
-        android:name="com.example.a1mobileapp4c.ui.zadanie1"
+        android:name="com.example.a1mobileapp4c.ui.zadanie1.zadanie1"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/zadanie2"
-        android:name="com.example.a1mobileapp4c.ui.zadanie2"
+        android:name="com.example.a1mobileapp4c.ui.zadanie2.zadanie2"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/zadanie3"
-        android:name="com.example.a1mobileapp4c.ui.zadanie3"
+        android:name="com.example.a1mobileapp4c.ui.zadanie3.zadanie3"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/zadanie4"
-        android:name="com.example.a1mobileapp4c.ui.zadanie4"
+        android:name="com.example.a1mobileapp4c.ui.zadanie4.zadanie4"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/zadanie5"
-        android:name="com.example.a1mobileapp4c.ui.zadanie5"
+        android:name="com.example.a1mobileapp4c.ui.zadanie5.zadanie5"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/zadanie6"
-        android:name="com.example.a1mobileapp4c.ui.zadanie6"
+        android:name="com.example.a1mobileapp4c.ui.zadanie6.zadanie6"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/zadanie7"
-        android:name="com.example.a1mobileapp4c.ui.zadanie7"
+        android:name="com.example.a1mobileapp4c.ui.zadanie7.zadanie7"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/zadanie8"
-        android:name="com.example.a1mobileapp4c.ui.zadanie8"
+        android:name="com.example.a1mobileapp4c.ui.zadanie8.zadanie8"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/zadanie9"
-        android:name="com.example.a1mobileapp4c.ui.zadanie9"
+        android:name="com.example.a1mobileapp4c.ui.zadanie9.zadanie9"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/zadanie10"
-        android:name="com.example.a1mobileapp4c.ui.zadanie10"
+        android:name="com.example.a1mobileapp4c.ui.zadanie10.zadanie10"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/zadanie11"
-        android:name="com.example.a1mobileapp4c.ui.zadanie11"
+        android:name="com.example.a1mobileapp4c.ui.zadanie11.zadanie11"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/zadanie12"
-        android:name="com.example.a1mobileapp4c.ui.zadanie12"
+        android:name="com.example.a1mobileapp4c.ui.zadanie12.zadanie12"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/zadanie13"
-        android:name="com.example.a1mobileapp4c.ui.zadanie13"
+        android:name="com.example.a1mobileapp4c.ui.zadanie13.zadanie13"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/zadanie14"
-        android:name="com.example.a1mobileapp4c.ui.zadanie14"
+        android:name="com.example.a1mobileapp4c.ui.zadanie14.zadanie14"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 
     <fragment
         android:id="@+id/zadanie15"
-        android:name="com.example.a1mobileapp4c.ui.zadanie15"
+        android:name="com.example.a1mobileapp4c.ui.zadanie15.zadanie15"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
 </navigation>
