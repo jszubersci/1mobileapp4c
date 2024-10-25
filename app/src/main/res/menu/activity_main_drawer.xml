@@ -16,5 +16,65 @@
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/zadanie1"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Zadanie 1" />
+        <item
+            android:id="@+id/zadanie2"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Zadanie 2" />
+        <item
+            android:id="@+id/zadanie3"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Zadanie 3" />
+        <item
+            android:id="@+id/zadanie4"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Zadanie 4" />
+        <item
+            android:id="@+id/zadanie5"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Zadanie 5" />
+        <item
+            android:id="@+id/zadanie6"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Zadanie 6" />
+        <item
+            android:id="@+id/zadanie7"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Zadanie 7" />
+        <item
+            android:id="@+id/zadanie8"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Zadanie 8" />
+        <item
+            android:id="@+id/zadanie9"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Zadanie 9" />
+        <item
+            android:id="@+id/zadanie10"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Zadanie 10" />
+        <item
+            android:id="@+id/zadanie11"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Zadanie 11" />
+        <item
+            android:id="@+id/zadanie12"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Zadanie 12" />
+        <item
+            android:id="@+id/zadanie13"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Zadanie 13" />
+        <item
+            android:id="@+id/zadanie14"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Zadanie 14" />
+        <item
+            android:id="@+id/zadanie15"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Zadanie 15" />
     </group>
 </menu>
