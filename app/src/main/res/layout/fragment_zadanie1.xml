@@ -21,7 +21,8 @@
         android:background="#F2F2F2"
         android:padding="15dp"
         android:textColorHint="#000"
-        android:textStyle="bold|italic" />
+        android:textStyle="bold|italic"
+        android:layout_marginTop="20dp" />
 
     <Button
         android:id="@+id/ID3"
@@ -35,12 +36,6 @@
         android:layout_marginTop="100dp"
         android:textStyle="bold" />
 
-    <TextView         android:id="@+id/ID4"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="100dp"
-        android:text="SNACKBAR/TOAST" />
 
     <CheckBox
         android:id="@+id/ID5"
@@ -48,5 +43,5 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="100dp"
-        android:text="text"/>
+        android:text="SNACKBAR/TOAST"/>
 </RelativeLayout>

@@ -54,8 +54,7 @@ public class zadanie1 extends Fragment {
 
 
         CheckBox checkBox = binding.ID5;
-        TextView text2 = binding.ID4;
-        text2.setText("text:");
+
 
         button.setOnClickListener(new View.OnClickListener() {            @Override
         public void onClick(View view) {
