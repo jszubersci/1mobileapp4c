@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.zadanie2.zadanie2">
 
+    <ImageView
+        android:id="@+id/imageview1"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@mipmap/cat1" />
+
     <TextView
+        android:id="@+id/textview1"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="You are in Zad. 2" />
+        android:layout_marginTop="270dp"
+        android:layout_marginLeft="30dp"
+        android:layout_height="100dp"
+        android:text="SOME TEXT..." />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_marginTop="130dp"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="7dp"
+        android:text="&lt;" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_marginTop="130dp"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="363dp"
+        android:text="&gt;" />
 
 </FrameLayout>
