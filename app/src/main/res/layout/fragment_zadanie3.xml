@@ -1,13 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.zadanie3.zadanie3">
 
-    <TextView
+    <TextView android:id="@+id/ID1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add text below:" />
+
+    <EditText
+        android:id="@+id/idEdtItemName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="4dp"
+        android:layout_toLeftOf="@id/idBtnAdd"
+        android:hint="Enter item name to add in ist" />
+
+    <!--button for adding item from edit text to list-->
+    <Button
+        android:id="@+id/idBtnAdd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_margin="4dp"
+        android:text="Add"
+        android:textAllCaps="false" />
+
+    <ListView
+        android:id="@+id/idLVLanguages"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="You are in Zad. 3" />
+        android:layout_below="@id/idEdtItemName" />
 
-</FrameLayout>
+</RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+

@@ -29,10 +29,8 @@ public class zadanie1 extends Fragment {
 
     private com.example.a1mobileapp4c.databinding.FragmentZadanie1Binding binding;
     Button button;
-    public View onCreateView(@NonNull LayoutInflater inflater,
-                             ViewGroup container, Bundle savedInstanceState) {
-        Zadanie1ViewModel zadanie1ViewModel =
-                new ViewModelProvider(this).get(Zadanie1ViewModel.class);
+    public View onCreateView(@NonNull LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
+        Zadanie1ViewModel zadanie1ViewModel = new ViewModelProvider(this).get(Zadanie1ViewModel.class);
 
         binding = com.example.a1mobileapp4c.databinding.FragmentZadanie1Binding.inflate(inflater, container, false);
         View root = binding.getRoot();
@@ -56,7 +54,8 @@ public class zadanie1 extends Fragment {
         CheckBox checkBox = binding.ID5;
 
 
-        button.setOnClickListener(new View.OnClickListener() {            @Override
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
         public void onClick(View view) {
             String s = String.valueOf(editText.getText());
             if(s.length() == 0) {
